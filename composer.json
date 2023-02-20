@@ -1,0 +1,21 @@
+{
+    "name": "lite/php2",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abramov",
+            "email": "0654@bk.ru"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.21",
+        "roave/security-advisories": "dev-latest",
+        "ext-pdo": "*",
+        "symfony/polyfill-uuid": "^1.26"
+    }
+}
+
