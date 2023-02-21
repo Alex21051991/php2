@@ -1,0 +1,2 @@
+[2023-02-21T11:59:03.599093+03:00] blog.ERROR: User already exists: user123 {"exception":"[object] (App\\Blog\\Exceptions\\CommandException(code: 0): User already exists: user123 at C:\\OpenServer\\domains\\php2\\src\\Blog\\Commands\\CreateUserCommand.php:40)"} []
+[2023-02-21T12:01:26.510370+03:00] blog.ERROR: User already exists: user123 {"exception":"[object] (App\\Blog\\Exceptions\\CommandException(code: 0): User already exists: user123 at C:\\OpenServer\\domains\\php2\\src\\Blog\\Commands\\CreateUserCommand.php:40)"} []
